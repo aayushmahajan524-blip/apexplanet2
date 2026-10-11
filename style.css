@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+} */
+.contact{
+    width: 100%;
+    max-width: 400px;
+
+    height:auto;
+    border:1px solid #ccc;
+    padding: 20px;
+    box-sizing:border-box
+}
+.para{
+    color:gray;
+    font-size: 14px;
+    gap: 0px;
+}
+.head{
+    background-color:blue;
+    color:white;
+}
+.container{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    color:blue;
+}
